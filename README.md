@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Ahoj, já jsem Trexon
 
-<!--
-**trexondev-netizen/trexondev-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Jsem **FiveM developer** se zaměřením na vývoj a úpravu scriptů pro GTA V roleplay servery.  
+💻 Umím pracovat s technologiemi: **Lua**, **HTML**, **CSS** a **JavaScript**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Co dělám
+- ✨ Tvorba vlastních scriptů pro FiveM (od jednoduchých funkcí po komplexní systémy).  
+- 🛠 Úprava a optimalizace existujících scriptů.  
+- 🎨 Front-end práce pomocí HTML, CSS a JavaScriptu.  
+- ⚡ Spojování backend logiky v Lua s moderním UI.  
+
+---
+
+## 📊 Statistiky na GitHubu
+![Moje statistiky](https://github-readme-stats.vercel.app/api?username=trexondev-netizen&show_icons=true&theme=tokyonight)
+
+---
+
+### Languages that i know<br>
+![Known Languages](https://skillicons.dev/icons?i=lua,html,css,nodejs,react,&theme=dark) 
+
+---
+
+## 📫 Kontakt
+- Discord: **dvtoken**  
