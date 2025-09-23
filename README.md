@@ -13,11 +13,6 @@
 
 ---
 
-## 📊 Statistiky na GitHubu
-![Moje statistiky](https://github-readme-stats.vercel.app/api?username=trexondev-netizen&show_icons=true&theme=tokyonight)
-
----
-
 ### Languages that i know<br>
 ![Known Languages](https://skillicons.dev/icons?i=lua,html,css,nodejs,react,&theme=dark) 
 
