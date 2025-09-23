@@ -1,22 +1,22 @@
-# 👋 Ahoj, já jsem Trexon
+# 👋 Hi, I'm Trexon
 
-🎮 Jsem **FiveM developer** se zaměřením na vývoj a úpravu scriptů pro GTA V roleplay servery.  
-💻 Umím pracovat s technologiemi: **Lua**, **HTML**, **CSS** a **JavaScript**.  
-
----
-
-## 🚀 Co dělám
-- ✨ Tvorba vlastních scriptů pro FiveM (od jednoduchých funkcí po komplexní systémy).  
-- 🛠 Úprava a optimalizace existujících scriptů.  
-- 🎨 Front-end práce pomocí HTML, CSS a JavaScriptu.  
-- ⚡ Spojování backend logiky v Lua s moderním UI.  
+🎮 I’m a **FiveM developer** focused on creating and customizing scripts for GTA V roleplay servers.  
+💻 I work with technologies such as **Lua**, **HTML**, **CSS**, and **JavaScript**.  
 
 ---
 
-### Languages that i know<br>
+## 🚀 What I Do
+- ✨ Developing custom scripts for FiveM (from simple features to complex systems).  
+- 🛠 Modifying and optimizing existing scripts.  
+- 🎨 Front-end development using HTML, CSS, and JavaScript.  
+- ⚡ Connecting backend logic in Lua with modern UI.  
+
+---
+
+### Languages that I know<br>
 ![Known Languages](https://skillicons.dev/icons?i=lua,html,css,nodejs,react,&theme=dark) 
 
 ---
 
-## 📫 Kontakt
+## 📫 Contact
 - Discord: **dvtoken**  
