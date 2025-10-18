@@ -14,7 +14,7 @@
 ---
 
 ### Languages that I know<br>
-![Known Languages](https://skillicons.dev/icons?i=lua,html,css,nodejs,&theme=dark) 
+![Known Languages](https://skillicons.dev/icons?i=lua,html,css,nodejs,c++,&theme=dark) 
 
 ---
 
